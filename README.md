@@ -31,6 +31,9 @@
    <a href="https://twitter.com/johnnyrockoff" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnnyrockoff" height="30" width="40" />
    </a>
+   <a href="https://twitch.tv/johnnyrockoff" target="blank">
+   <img align="center" src="https://user-images.githubusercontent.com/3978637/211098203-e4ca1a42-9e1b-4bf1-84fb-bf87811859fe.png" alt="johnnyrockoff" height="40" width="40" />
+   </a>
 </p>
 
 <br>
@@ -84,10 +87,5 @@
 <br>
 <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnyrockoff&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="johnnyrockoff" />
-</p>
-<p align="left">
-   <a href="https://twitter.com/johnnyrockoff" target="blank">
-   <img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://user-images.githubusercontent.com/3978637/211097875-33e1b269-0e89-4660-835c-335764c4f135.png)" alt="" />
-   </a>
 </p>
 [johnnyrockoff](https://github.com/johnnyrockoff)
