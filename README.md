@@ -12,9 +12,10 @@
 <p>
    <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </p>
-- 🌱 I'm currently working as a Automation Engineer, but I also worked as: FullStack Developer, Mobile Developer (Xamarin) and BackEnd Developer 
+- 🌱 I currently work as an Automation Engineer, but I also worked as: FullStack Developer, Mobile Developer (Xamarin) and BackEnd Developer
 - 📫 How to reach me **joaopaulorocha@protonmail.com** 
-- ⚡ Fun fact : Music 🎵, Sports , and Gaming are the reasons to live. <br>
+- ⚡ Hobbies : Music 🎵, JiuJitsu and Gaming. 
+<br>
 
 <h3 align="left">Connect with me:</h3>
 
