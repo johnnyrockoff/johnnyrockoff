@@ -38,12 +38,8 @@
 <h3 align="left">Languages:</h3>
 
 <p align="left">
-    <label> JavaScript
-        <img src="https://user-images.githubusercontent.com/3978637/211089737-a43f8b1b-043b-4767-add5-55f3a3621733.png" alt="java" width="40" height="40" />
-    </label>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/3978637/211089737-a43f8b1b-043b-4767-add5-55f3a3621733.png" alt="java" width="40" height="40" />
-    </a>
+    <img src="https://user-images.githubusercontent.com/3978637/211089737-a43f8b1b-043b-4767-add5-55f3a3621733.png" alt="javascript" width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/3978637/211090162-8183bd7c-a0db-47cb-8da2-913bc86d1484.png" alt="java" width="40" height="40" />
 </p>
 <br>
 <h3>Statistical Data :-</h3>
