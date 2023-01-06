@@ -6,7 +6,7 @@
    <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </p>
 
----> 🌱 I currently work as an Automation Engineer, but I also worked as: FullStack Developer, Mobile Developer (Xamarin) and BackEnd Developer
+---> 🌱 Web Developer (FullStack and Backend) with over 13 years of experience, hardworking professional with the capacity of learning fast; also, easy to work and get along with, I also can work as Test Automation Engineer
 
 --->  📫 How to reach me **joaopaulorocha@protonmail.com** 
 
