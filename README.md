@@ -53,6 +53,24 @@
     <img src="https://user-images.githubusercontent.com/3978637/211093586-cd14f420-b109-4f4d-a81c-071cae5f3c54.png" alt="msql" width="40" height="40" />
 </p>
 
+<h3 align="left">Tools and Technologies:</h3>
+
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/3978637/211095007-d2353841-b4dc-4631-8319-9d57d7e340e8.png" alt="docker" width="40" height="40" />
+    <img src="" alt="pg" width="40" height="40" />
+    <img src="" alt="pg" width="40" height="40" />
+    <img src="" alt="pg" width="40" height="40" />
+    <img src="" alt="pg" width="40" height="40" />
+    <img src="" alt="pg" width="40" height="40" />
+    <img src="" alt="pg" width="40" height="40" />
+    <img src="" alt="pg" width="40" height="40" />
+    <img src="" alt="pg" width="40" height="40" />
+    <img src="" alt="pg" width="40" height="40" />
+    <img src="" alt="pg" width="40" height="40" />
+    <img src="" alt="pg" width="40" height="40" />
+</p>
+
+
 <br>
 
 <h3>Statistical Data :-</h3>
