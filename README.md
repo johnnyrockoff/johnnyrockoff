@@ -38,15 +38,14 @@
 <h3 align="left">Languages:</h3>
 
 <p align="left">
-    <img src="https://user-images.githubusercontent.com/3978637/211089737-a43f8b1b-043b-4767-add5-55f3a3621733.png" alt="javascript" width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/3978637/211089737-a43f8b1b-043b-4767-add5-55f3a3621733.png" alt="js" width="40" height="40" />
     <img src="https://user-images.githubusercontent.com/3978637/211090162-8183bd7c-a0db-47cb-8da2-913bc86d1484.png" alt="java" width="40" height="40" />
-    <img src="https://user-images.githubusercontent.com/3978637/211091476-e0e3ce65-6537-4911-9480-b7c9e9fd3a8a.png" alt="java" width="40" height="40" />
-    
-
-
-
+    <img src="https://user-images.githubusercontent.com/3978637/211091476-e0e3ce65-6537-4911-9480-b7c9e9fd3a8a.png" alt="scala" width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/3978637/211092161-9264f5ed-a101-4600-b5b4-c0b0114ef9a2.png" alt="php" width="40" height="40" />
 </p>
+
 <br>
+
 <h3>Statistical Data :-</h3>
 <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adam-pw" bg_color=#808080 />
