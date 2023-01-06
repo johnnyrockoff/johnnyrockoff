@@ -68,7 +68,7 @@
     <img src="https://user-images.githubusercontent.com/3978637/211096887-061322bc-de51-4a72-a2b1-de94535bfcd5.png" alt="play" width="40" height="40" />
     <img src="https://user-images.githubusercontent.com/3978637/211096911-58962841-39c7-49f7-9c41-ce387930d65f.png" alt="appium" width="40" height="40" />
     <img src="https://user-images.githubusercontent.com/3978637/211096966-409c78ef-5424-484c-9c3f-6d37273a7e04.png" alt="linux" width="40" height="40" />
-    And more...
+    and more...
 </p>
 
 <br>
