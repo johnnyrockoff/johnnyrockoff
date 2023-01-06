@@ -44,6 +44,15 @@
     <img src="https://user-images.githubusercontent.com/3978637/211092161-9264f5ed-a101-4600-b5b4-c0b0114ef9a2.png" alt="php" width="40" height="40" />
 </p>
 
+<h3 align="left">Database:</h3>
+
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/3978637/211093080-4cd6030f-f5d1-4d1b-8c89-aff448160c04.png" alt="pg" width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/3978637/211093117-6afb5c18-efeb-4a73-984d-81e733e376ec.png" alt="my" width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/3978637/211093335-075854e9-1814-4152-9a0f-0eba01d6ca8f.png" alt="mongo" width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/3978637/211093586-cd14f420-b109-4f4d-a81c-071cae5f3c54.png" alt="msql" width="40" height="40" />
+</p>
+
 <br>
 
 <h3>Statistical Data :-</h3>
