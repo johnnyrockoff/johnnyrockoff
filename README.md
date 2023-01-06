@@ -1,23 +1,16 @@
 <h1 align="center">Hi 👋, I'm Johnny Rock</h1>
 <h3 align="center">Developer over 13+ years of XP 🌟.</h3>
-
-<br>
-
-<p align="right">
-    <h3>Profile Views : </h3>
-    <img src="https://komarev.com/ghpvc/?username=johnnyrockoff&label=Profile%20Views&color=0e75b6&style=flat" alt="johnnyrockoff" />
-</p>
-
+<h3 align="center"><img src="https://komarev.com/ghpvc/?username=johnnyrockoff&label=Profile%20Views&color=0e75b6&style=flat" alt="johnnyrockoff" /></h3>
 <br>
 <p>
    <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </p>
 
-- 🌱 I currently work as an Automation Engineer, but I also worked as: FullStack Developer, Mobile Developer (Xamarin) and BackEnd Developer
+---> 🌱 I currently work as an Automation Engineer, but I also worked as: FullStack Developer, Mobile Developer (Xamarin) and BackEnd Developer
 
-- 📫 How to reach me **joaopaulorocha@protonmail.com** 
+--->  📫 How to reach me **joaopaulorocha@protonmail.com** 
 
-- ⚡ Hobbies : Music 🎵, JiuJitsu and Gaming. 
+--->  ⚡ Hobbies : Music 🎵, JiuJitsu and Gaming. 
 
 <br>
 
