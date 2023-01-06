@@ -40,6 +40,9 @@
 <p align="left">
     <img src="https://user-images.githubusercontent.com/3978637/211089737-a43f8b1b-043b-4767-add5-55f3a3621733.png" alt="javascript" width="40" height="40" />
     <img src="https://user-images.githubusercontent.com/3978637/211090162-8183bd7c-a0db-47cb-8da2-913bc86d1484.png" alt="java" width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/3978637/211090898-f5c90af0-ea47-4ea2-9f02-dd4e1f927a57.png" alt="java" width="40" height="40" />
+
+
 </p>
 <br>
 <h3>Statistical Data :-</h3>
