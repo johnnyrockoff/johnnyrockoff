@@ -26,8 +26,8 @@
    <a href="https://www.hackerrank.com/johnnyrockoff" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="johnnyrockoff" height="30" width="40" />
    </a>
-   <a href="https://twitter.com/johnnyrockoff" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnnyrockoff" height="30" width="40" />
+   <a href="https://bsky.app/profile/johnnyrockoff.bsky.social" target="blank">
+   <img align="center" src="https://github.com/user-attachments/assets/481e6062-57f4-403a-b1df-64e98aa5c44a" alt="johnnyrockoff" height="30" width="40" />
    </a>
    <a href="https://twitch.tv/johnnyrockoff" target="blank">
    <img align="center" src="https://user-images.githubusercontent.com/3978637/211098203-e4ca1a42-9e1b-4bf1-84fb-bf87811859fe.png" alt="johnnyrockoff" height="40" width="40" />
