@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Johnny Rock</h1>
 <h3 align="center">Developer over 16+ years of XP 🌟.</h3>
-<h3 align="center"><img src="https://komarev.com/ghpvc/?username=johnnyrockoff&label=Profile%20Views&color=0e75b6&style=flat" alt="johnnyrockoff" /></h3>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johnnyrockoff&theme=onedark" />
+</p>
+
 <br>
 <p>
    <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
