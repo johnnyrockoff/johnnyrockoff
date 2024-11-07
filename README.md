@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Johnny Rock</h1>
-<h3 align="center">Developer over 16+ years of XP 🌟.</h3>
 
 <br>
 
