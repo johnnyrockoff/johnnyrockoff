@@ -13,7 +13,9 @@
 <br>
 
 <h3 align="left">Support me:</h3>
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johnnyrockoff)
+<a href="https://ko-fi.com/johnnyrockoff" target="blank">
+   <img width="490" height="99" alt="support_me_on_kofi_dark" src="https://github.com/user-attachments/assets/d259afd2-bcbd-4789-9486-59776c406f62" />
+</a>
 
 <br>
 
