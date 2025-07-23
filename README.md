@@ -13,7 +13,7 @@
 <br>
 
 <h3 align="left">Support me:</h3>
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/SEUNOMEDEUSUARIO)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johnnyrockoff)
 
 <br>
 
