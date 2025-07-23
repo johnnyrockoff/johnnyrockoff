@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Johnny Rock</h1>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnnyrockoff&theme=onedark" />
-</p>
-
 <br>
 <p>
    <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
@@ -18,6 +11,17 @@
 --->  ⚡ Hobbies : Music 🎵, JiuJitsu and Gaming. 
 
 <br>
+
+<h3 align="left">Support me:</h3>
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('johnnyrockoff', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#323842',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
 
 <h3 align="left">Connect with me:</h3>
 
