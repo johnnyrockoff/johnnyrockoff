@@ -13,8 +13,7 @@
 <br>
 
 <h3 align="left">Support me:</h3>
-<iframe id='kofiframe' src='https://ko-fi.com/johnnyrockoff/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='johnnyrockoff'></iframe>
-
+ko_fi:JOHNNYROCKOFF
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
