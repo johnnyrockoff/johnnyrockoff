@@ -13,15 +13,7 @@
 <br>
 
 <h3 align="left">Support me:</h3>
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('johnnyrockoff', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#323842',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<iframe id='kofiframe' src='https://ko-fi.com/johnnyrockoff/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='johnnyrockoff'></iframe>
 
 <h3 align="left">Connect with me:</h3>
 
