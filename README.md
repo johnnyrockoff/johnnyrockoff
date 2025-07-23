@@ -13,7 +13,7 @@
 <br>
 
 <h3 align="left">Support me:</h3>
-ko_fi:johnnyrockoff
+ko_fi: johnnyrockoff
 
 <br>
 
