@@ -13,7 +13,10 @@
 <br>
 
 <h3 align="left">Support me:</h3>
-ko_fi:JOHNNYROCKOFF
+ko_fi:johnnyrockoff
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
