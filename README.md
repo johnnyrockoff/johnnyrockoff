@@ -6,7 +6,7 @@
 
 ---> 🌱 Web Developer (FullStack and Backend) with over 16 years of experience, hardworking professional with the capacity of learning fast; also, easy to work and get along with, I also can work as Test Automation Engineer
 
---->  📫 How to reach me **joaopaulorocha@protonmail.com** 
+--->  📫 How to reach me **joaopaulorocha@pm.me** 
 
 --->  ⚡ Hobbies : Music 🎵, JiuJitsu and Gaming. 
 
