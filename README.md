@@ -4,7 +4,7 @@
    <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </p>
 
----> 🌱 Web Developer (FullStack and Backend) with over 16 years of experience, hardworking professional with the capacity of learning fast; also, easy to work and get along with, I also can work as Test Automation Engineer
+---> 🌱 Web Developer (FullStack and Backend) with over 19 years of experience, hardworking professional with the capacity of learning fast; also, easy to work and get along with, I also can work as Test Automation Engineer
 
 --->  📫 How to reach me **joaopaulorocha@pm.me** 
 
